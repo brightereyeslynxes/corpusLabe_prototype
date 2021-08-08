@@ -22,11 +22,11 @@ Install the python required packages with the following command:
 
 ![menu](img/menu.png)
 
-## corpusLabe prototype as a virtual goniometer
+## corpusLabe prototype as a virtual goniometer example interface
 
 ![goniomter](img/goniometer0.png)
 
-## corpusLabe prototype as a gamified exercise platform
+## corpusLabe prototype as a gamified exercise platform example interface
 
 ![goniomter](img/game1.png)
 
