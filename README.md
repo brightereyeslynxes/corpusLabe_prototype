@@ -37,6 +37,6 @@ Install the python required packages with the following command:
 * [Luxonis](https://github.com/luxonis/depthai-python)
 * [OpenCV](https://opencv.org/)
 
-and very special thanks to
+and a very special thanks to
 
 * [geaxgx](https://github.com/geaxgx), whose repository [depthai_blazepose](https://github.com/geaxgx/depthai_blazepose) demonstrating the use of the BlazePose model on DepthAI hardware constitutes the very foundation of the implementation of this idea.
