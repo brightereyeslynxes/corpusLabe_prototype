@@ -4,6 +4,8 @@ Within the context of the [2021 OpenCV AI Competition](https://opencv.org/opencv
 
 ![overview](img/overview0.png)
 
+[![demo?Video](img/preview.PNG)](https://vimeo.com/584522428 "corpusLabe demo video - Click to Watch!")
+
 ## Install
 
 Install the python required packages with the following command:
