@@ -4,7 +4,7 @@
 
 Within the context of the [2021 OpenCV AI Competition](https://opencv.org/opencv-ai-competition-2021/), the corpusLabe prototype was developed by the team [Brighter Eyes Lynxes](https://brightereyeslynxes.github.io/) exploring the use of the OpenCV AI Kit for clinical assessment of posture, as well as, a gamified exercise platform, running BlazePose (a Google Mediapipe single body pose tracking model) on DepthAI hardware.
 
-![overview](img/overview1.png)
+![overview](img/overview.png)
 
 ## Install
 
