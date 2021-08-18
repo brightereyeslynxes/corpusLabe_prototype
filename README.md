@@ -1,4 +1,4 @@
-[![demo Video](img/preview.png)](https://vimeo.com/584522428 "corpusLabe demo video - Click to Watch!")
+[![demo Video](img/play.png)](https://vimeo.com/584522428 "corpusLabe demo video - Click to Watch!")
 
 # corpusLabe prototype
 
